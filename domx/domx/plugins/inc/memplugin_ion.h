@@ -38,7 +38,7 @@
  */
 
 #include <unistd.h>
-#include <ion_ti/ion.h>
+#include <../../../../../omap4-common/include/ion_ti/ion.h>
 #include <sys/ioctl.h>
 #include <sys/mman.h>
 #include <sys/eventfd.h>
